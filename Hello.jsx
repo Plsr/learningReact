@@ -4,7 +4,7 @@
 
 var React = require('react')
 
-module.exports = React.createclass({
+module.exports = React.createClass({
   displayName: 'HelloReact',
 
   render: function(){
