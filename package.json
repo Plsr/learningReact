@@ -12,7 +12,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "react": "~0.14.0"
+    "react": "~0.14.0",
+    "react-dom": "~0.14.0"
   },
   "devDependencies": {
     "webpack-dev-server": "~1.12.1",
